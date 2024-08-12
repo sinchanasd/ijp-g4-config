@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Internal Job Posting Applications "
+  contactDetails:
+    name: "Phiebe Buffe - Developer"
+    email: "phiebe@ijp.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934
